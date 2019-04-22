@@ -596,7 +596,7 @@
  - [react-tween](https://github.com/clari/react-tween) - Tween animation for React components.
  - [data-driven-motion](https://github.com/tkh44/data-driven-motion) - Easily animate your data in react.
  - [react-web-animation](https://github.com/bringking/react-web-animation) - React components for the Web Animations API -.
-
+ - [reactparticles.js](https://github.com/kr1tzb1tz/reactparticles.js) - Particles.js React component.
 
 ### Parallax
 
